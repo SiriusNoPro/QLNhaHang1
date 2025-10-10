@@ -1,0 +1,15 @@
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\bin\Debug\net8.0\QLNhaHang.DAO.deps.json
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\bin\Debug\net8.0\QLNhaHang.DAO.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\bin\Debug\net8.0\QLNhaHang.DAO.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\bin\Debug\net8.0\QLNhaHang.DTO.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\bin\Debug\net8.0\QLNhaHang.DTO.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHang.DAO.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHang.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHang.DAO.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHang.DAO.AssemblyInfo.cs
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHang.DAO.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHan.F1E639B7.Up2Date
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHang.DAO.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\refint\QLNhaHang.DAO.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\QLNhaHang.DAO.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DAO\obj\Debug\net8.0\ref\QLNhaHang.DAO.dll
