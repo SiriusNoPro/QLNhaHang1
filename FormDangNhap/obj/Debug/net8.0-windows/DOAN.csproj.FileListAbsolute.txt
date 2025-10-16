@@ -1,0 +1,405 @@
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.exe
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\Login.cs
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.deps.json
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.runtimeconfig.json
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.dll
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.pdb
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DevExpress.WinterJoySkin.dll
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.AssemblyReference.cache
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMain.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.Login.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.Properties.Resources.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.GenerateResource.cache
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfoInputs.cache
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfo.cs
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.CoreCompileInputs.cache
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.Up2Date
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.dll
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\refint\DOAN.dll
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.pdb
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.genruntimeconfig.cache
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\ref\DOAN.dll
+D:\lt window\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDatPhong.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachDoUong.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachMonAn.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachTraiCay.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachPhongThuong.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachPhongVip.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.FormHoaDon.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmNhapXuatKho.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmThongKe.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDoanhThu.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMonAn.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmPhong.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmKhachHang.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmThongTinNhanVien.resources
+D:\lt window\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.frmDangNhap.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.exe
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\Login.cs
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.deps.json
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.runtimeconfig.json
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.pdb
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DevExpress.WinterJoySkin.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.AssemblyReference.cache
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachDoUong.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachMonAn.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachPhongThuong.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachPhongVip.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachTraiCay.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.frmDangNhap.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.FormHoaDon.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDatPhong.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDoanhThu.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmKhachHang.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMain.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMonAn.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmNhapXuatKho.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmPhong.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmThongKe.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmThongTinNhanVien.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.Login.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.Properties.Resources.resources
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.GenerateResource.cache
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfoInputs.cache
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfo.cs
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.CoreCompileInputs.cache
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.Up2Date
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\refint\DOAN.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.pdb
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.genruntimeconfig.cache
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\ref\DOAN.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.BUS.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DAO.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DTO.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.BUS.pdb
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DTO.pdb
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DAO.pdb
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Coder\C#\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.ResolveComReference.cache
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.exe
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\Login.cs
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.deps.json
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.runtimeconfig.json
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOAN.pdb
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DevExpress.WinterJoySkin.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.BUS.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DAO.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DTO.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.BUS.pdb
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DTO.pdb
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\bin\Debug\net8.0-windows\DOANKARAOKE.DAO.pdb
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.AssemblyReference.cache
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.ResolveComReference.cache
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachDoUong.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachMonAn.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachPhongThuong.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachPhongVip.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.DanhSachTraiCay.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.frmDangNhap.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.FormHoaDon.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDatPhong.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDoanhThu.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmKhachHang.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMain.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMonAn.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmNhapXuatKho.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmPhong.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmThongKe.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmThongTinNhanVien.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.Login.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.Properties.Resources.resources
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.GenerateResource.cache
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfoInputs.cache
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfo.cs
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.CoreCompileInputs.cache
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.Up2Date
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\refint\DOAN.dll
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.pdb
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\DOAN.genruntimeconfig.cache
+D:\TaiLieu\DoAnCSNganhC#\DOANKARAOKE\DOANKARAOKE\FormDangNhap\obj\Debug\net8.0-windows\ref\DOAN.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.ResolveComReference.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.frmDangNhap.resources
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMain.resources
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.Login.resources
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.Properties.Resources.resources
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfo.cs
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.exe
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.deps.json
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.runtimeconfig.json
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DevExpress.WinterJoySkin.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.BUS.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DAO.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DTO.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.BUS.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DTO.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DAO.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.Up2Date
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\refint\DOAN.dll
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.pdb
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.genruntimeconfig.cache
+C:\Users\ACER\Downloads\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\ref\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.exe
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.deps.json
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.runtimeconfig.json
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DevExpress.WinterJoySkin.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.BUS.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DAO.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DTO.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.BUS.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DTO.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DAO.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.AssemblyReference.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.ResolveComReference.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.frmDangNhap.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDatHang.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMain.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.Login.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.Properties.Resources.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.GenerateResource.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfoInputs.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfo.cs
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.CoreCompileInputs.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.sourcelink.json
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.Up2Date
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\refint\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.genruntimeconfig.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\ref\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDatBan.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmQuanLyBan.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.exe
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.deps.json
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.runtimeconfig.json
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DOAN.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\DevExpress.WinterJoySkin.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.BUS.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DAO.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DTO.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.BUS.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DTO.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\bin\Debug\net8.0-windows\QLNhaHang.DAO.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.AssemblyReference.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.ResolveComReference.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.frmDangNhap.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDatBan.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmDatHang.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmMain.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.frmQuanLyBan.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\FormDangNhap.Login.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.Properties.Resources.resources
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.GenerateResource.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfoInputs.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.AssemblyInfo.cs
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.CoreCompileInputs.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.sourcelink.json
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.csproj.Up2Date
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\refint\DOAN.dll
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.pdb
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\DOAN.genruntimeconfig.cache
+D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\FormDangNhap\obj\Debug\net8.0-windows\ref\DOAN.dll

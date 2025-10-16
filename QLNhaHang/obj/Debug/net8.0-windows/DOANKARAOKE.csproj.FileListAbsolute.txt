@@ -1,0 +1,33 @@
+D:\lt window\DOANKARAOKE\DOANKARAOKE\bin\Debug\net8.0-windows\DOANKARAOKE.exe
+D:\lt window\DOANKARAOKE\DOANKARAOKE\bin\Debug\net8.0-windows\DOANKARAOKE.deps.json
+D:\lt window\DOANKARAOKE\DOANKARAOKE\bin\Debug\net8.0-windows\DOANKARAOKE.runtimeconfig.json
+D:\lt window\DOANKARAOKE\DOANKARAOKE\bin\Debug\net8.0-windows\DOANKARAOKE.dll
+D:\lt window\DOANKARAOKE\DOANKARAOKE\bin\Debug\net8.0-windows\DOANKARAOKE.pdb
+D:\lt window\DOANKARAOKE\DOANKARAOKE\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.csproj.AssemblyReference.cache
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.Form1.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.formAbout.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.formDashboard.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.formLogout.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.formSetting.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.formsubmenu1.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.formsubmenu2.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.Properties.Resources.resources
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.csproj.GenerateResource.cache
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.GeneratedMSBuildEditorConfig.editorconfig
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.AssemblyInfoInputs.cache
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.AssemblyInfo.cs
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.csproj.CoreCompileInputs.cache
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARA.A3779614.Up2Date
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.dll
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\refint\DOANKARAOKE.dll
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.pdb
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.genruntimeconfig.cache
+D:\lt window\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\ref\DOANKARAOKE.dll
+D:\Coder\C#\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.csproj.AssemblyReference.cache
+D:\Coder\C#\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.Properties.Resources.resources
+D:\Coder\C#\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.csproj.GenerateResource.cache
+D:\Coder\C#\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\C#\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.AssemblyInfoInputs.cache
+D:\Coder\C#\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.AssemblyInfo.cs
+D:\Coder\C#\DOANKARAOKE\DOANKARAOKE\obj\Debug\net8.0-windows\DOANKARAOKE.csproj.CoreCompileInputs.cache
