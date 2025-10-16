@@ -637,3 +637,5 @@ D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\FormDangNhap\obj\Debug\net8.0-windows\DOAN.pdb
 D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\FormDangNhap\obj\Debug\net8.0-windows\DOAN.genruntimeconfig.cache
 D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\FormDangNhap\obj\Debug\net8.0-windows\ref\DOAN.dll
 D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\FormDangNhap\obj\Debug\net8.0-windows\DOAN.ThongTinKH.resources
+D:\programming\Do_AN\QLNhaHang1\FormDangNhap\obj\Debug\net8.0-windows\DOAN.ThongTinKH.resources
+D:\programming\Do_AN\QLNhaHang1\FormDangNhap\obj\Debug\net8.0-windows\DOAN.ThongtinNhanVien.resources

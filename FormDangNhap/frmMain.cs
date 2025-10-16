@@ -23,76 +23,76 @@ namespace DOAN
         {
             InitializeComponent();
             customizeDesing();
-            UpdateLoginStatus();
+            //UpdateLoginStatus();
         }
 
-        private void UpdateLoginStatus()
-        {
-            if (GlobalState.IsLoggedIn)
-            {
-                lblUserInfo.Text = $"Xin chào, {GlobalState.CurrentUser.ChucVu} {GlobalState.CurrentUser.HoTen}";
-                lblUserInfo.Visible = true;
-                button1.Text = $"Xin chào, {GlobalState.CurrentUser.ChucVu} {GlobalState.CurrentUser.HoTen}";
-                currentUserMaNV = GlobalState.CurrentUser.MaNV;
-            }
-            else
-            {
-                lblUserInfo.Text = "Chưa đăng nhập";
-                lblUserInfo.Visible = true;
-                button1.Text = "User";
-                currentUserMaNV = "NV001"; 
-            }
-        }
-        private bool CheckLoginRequired()
-        {
-            if (!GlobalState.IsLoggedIn)
-            {
-                MessageBox.Show("Bạn chưa đăng nhập! Vui lòng đăng nhập để sử dụng!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return false;
-            }
-            return true;
-        }
-        private bool CheckManagerAccess()
-        {
-            if (!GlobalState.IsLoggedIn)
-            {
-                return false;
-            }
+        //private void UpdateLoginStatus()
+        //{
+        //    if (GlobalState.IsLoggedIn)
+        //    {
+        //        lblUserInfo.Text = $"Xin chào, {GlobalState.CurrentUser.ChucVu} {GlobalState.CurrentUser.HoTen}";
+        //        lblUserInfo.Visible = true;
+        //        button1.Text = $"Xin chào, {GlobalState.CurrentUser.ChucVu} {GlobalState.CurrentUser.HoTen}";
+        //        currentUserMaNV = GlobalState.CurrentUser.MaNV;
+        //    }
+        //    else
+        //    {
+        //        lblUserInfo.Text = "Chưa đăng nhập";
+        //        lblUserInfo.Visible = true;
+        //        button1.Text = "User";
+        //        currentUserMaNV = "NV001"; 
+        //    }
+        //}
+        //private bool CheckLoginRequired()
+        //{
+        //    if (!GlobalState.IsLoggedIn)
+        //    {
+        //        MessageBox.Show("Bạn chưa đăng nhập! Vui lòng đăng nhập để sử dụng!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        //        return false;
+        //    }
+        //    return true;
+        //}
+        //private bool CheckManagerAccess()
+        //{
+        //    if (!GlobalState.IsLoggedIn)
+        //    {
+        //        return false;
+        //    }
 
-            if (GlobalState.CurrentUser.ChucVu != "Quản lý")
-            {
-                MessageBox.Show("Chỉ có Quản lý mới được phép truy cập!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return false;
-            }
-            return true;
-        }
+        //    if (GlobalState.CurrentUser.ChucVu != "Quản lý")
+        //    {
+        //        MessageBox.Show("Chỉ có Quản lý mới được phép truy cập!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        //        return false;
+        //    }
+        //    return true;
+        //}
 
-        private bool CheckAccess(bool requiresManagerAccess)
-        {
-            if (!CheckLoginRequired())
-                return false;
+        //private bool CheckAccess(bool requiresManagerAccess)
+        //{
+        //    if (!CheckLoginRequired())
+        //        return false;
 
-            if (requiresManagerAccess && !CheckManagerAccess())
-                return false;
+        //    if (requiresManagerAccess && !CheckManagerAccess())
+        //        return false;
 
-            return true;
-        }
+        //    return true;
+        //}
 
-        [DllImport("user32.dll")]
-        public static extern bool ReleaseCapture();
+        //[DllImport("user32.dll")]
+        //public static extern bool ReleaseCapture();
 
-        [DllImport("user32.dll")]
-        public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
+        //[DllImport("user32.dll")]
+        //public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
 
-        public const int WM_NCLBUTTONDOWN = 0xA1;
-        public const int HTCAPTION = 0x2;
+        //public const int WM_NCLBUTTONDOWN = 0xA1;
+        //public const int HTCAPTION = 0x2;
         private void panel1_MouseDown(object sender, MouseEventArgs e)
         {
-            if (e.Button == MouseButtons.Left)
-            {
-                ReleaseCapture();
-                SendMessage(this.Handle, WM_NCLBUTTONDOWN, HTCAPTION, 0);
-            }
+            //if (e.Button == MouseButtons.Left)
+            //{
+            //    ReleaseCapture();
+            //    SendMessage(this.Handle, WM_NCLBUTTONDOWN, HTCAPTION, 0);
+            //}
         }
         private void customizeDesing()
         {
@@ -290,18 +290,17 @@ namespace DOAN
 
         private void btnKhachhang_Click(object sender, EventArgs e)
         {
-            //if (CheckAccess(true))
-            //{
-            //    OpenChildForm(new frmKhachHang());
-            //}
+            
+            
+               OpenChildForm(new ThongTinKH());
+            
         }
 
         private void btninforNhanVien_Click(object sender, EventArgs e)
         {
-            //if (CheckAccess(true))
-            //{
-            //    OpenChildForm(new frmThongTinNhanVien());
-            //}
+            
+                OpenChildForm(new ThongtinNhanVien());
+            
         }
 
         private void btnCaiDat_Click(object sender, EventArgs e)

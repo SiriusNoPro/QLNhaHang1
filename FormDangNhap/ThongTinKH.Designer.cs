@@ -260,6 +260,7 @@
             Controls.Add(lbl_SoDtKH);
             Controls.Add(lbt_GioiTinhKH);
             Controls.Add(lbt_HoTenKH);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "ThongTinKH";
             Text = "ThongTinKhachHang";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

@@ -54,7 +54,6 @@ CREATE TABLE DatBan (
 CREATE TABLE NhanVien (
     MaNV VARCHAR(10) PRIMARY KEY,
     HoTen NVARCHAR(100) NOT NULL,
-    NgaySinh DATE,
     GioiTinh NVARCHAR(10),
     ChucVu NVARCHAR(50),
     SoDienThoai VARCHAR(15),
@@ -64,6 +63,8 @@ CREATE TABLE NhanVien (
     TaiKhoan VARCHAR(50),
     MatKhau VARCHAR(255) NOT NULL
 );
+ALTER TABLE NhanVien
+ADD NgaySinh DATE
 
 CREATE TABLE DoanhThu (
     MaDoanhThu VARCHAR(10) PRIMARY KEY,
@@ -252,7 +253,7 @@ INSERT INTO KhachHang (MaKH, TenKH, GioiTinh, Email, SDT, DiaChi) VALUES
 INSERT INTO NhanVien 
 (MaNV, HoTen, NgaySinh, GioiTinh, ChucVu, SoDienThoai, Email, DiaChi, HinhAnh, TaiKhoan, MatKhau) 
 VALUES
-('NV001', N'Trần Quốc Khánh', '1985-03-15', N'Nam', N'Quản lý', '0901234567', 'a@example.com', N'Quận 1', NULL, 'nguyenvana', '123456'),
+('NV001', N'Trần Quốc Khánh','1985-03-15', N'Nam', N'Quản lý', '0901234567', 'a@example.com', N'Quận 1', NULL, 'nguyenvana', '123456'),
 ('NV002', N'Nguyễn Thị Thanh Phương', '1990-07-22', N'Nữ', N'Lễ tân', '0902234567', 'b@example.com', N'Quận 2', NULL, 'tranthib', '123456'),
 ('NV003', N'Đặng Hoàng Hải', '1998-01-30', N'Nam', N'Bồi bàn', '0903234567', 'c@example.com', N'Quận 3', NULL, 'levanc', '123456'),
 ('NV004', N'Lưu Thanh Trúc', '1995-10-12', N'Nữ', N'Kế toán', '0904234567', 'd@example.com', N'Quận 4', NULL, 'phamthid', '123456'),
@@ -263,8 +264,14 @@ VALUES
 ('NV009', N'Nguyễn Minh Trí', '2000-12-09', N'Nam', N'Nhân viên', '0909234567', 'i@example.com', N'Quận 9', NULL, 'vovani', '123456'),
 ('NV010', N'Lê Phúc Anh Huy', '1994-02-28', N'Nam', N'Kế toán', '0910234567', 'j@example.com', N'Thủ Đức', NULL, 'phanthij', '123456');
 
-
-
+DELETE FROM NhanVien
+DELETE FROM GoiMonChiTiet
+DELETE FROM ThongBao
+DELETE FROM HoaDon
+DELETE FROM ChiTietHoaDon
+DELETE FROM NhapXuatKho
+DELETE FROM ChamCong
+DELETE FROM GoiMon
 INSERT INTO LoaiMatHang (MaLoaiMH, TenLoaiMH) VALUES
 ('LMH01', N'Món khai vị'),
 ('LMH02', N'Món chính'),

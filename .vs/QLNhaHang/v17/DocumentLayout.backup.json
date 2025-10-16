@@ -1,34 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\",
+  "WorkspaceRootPath": "D:\\programming\\Do_AN\\QLNhaHang1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\doan\\doan_qlnhahang\\qlnhahang1\\formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\programming\\do_an\\qlnhahang1\\formdangnhap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\doan\\doan_qlnhahang\\qlnhahang1\\formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\programming\\do_an\\qlnhahang1\\formdangnhap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\formdangnhap\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|D:\\programming\\Do_AN\\QLNhaHang1\\formdangnhap\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\doan\\doan_qlnhahang\\qlnhahang1\\formdangnhap\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97E52EC1-AF61-99FC-E0EA-F4F6DB5D602E}|QLNhaHang.DAO\\QLNhaHang.DAO.csproj|d:\\programming\\do_an\\qlnhahang1\\qlnhahang.dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E52EC1-AF61-99FC-E0EA-F4F6DB5D602E}|QLNhaHang.DAO\\QLNhaHang.DAO.csproj|solutionrelative:qlnhahang.dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\programming\\do_an\\qlnhahang1\\formdangnhap\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\thongtinnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\formdangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\programming\\do_an\\qlnhahang1\\formdangnhap\\frmdatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\frmdatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\programming\\do_an\\qlnhahang1\\formdangnhap\\frmdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\frmdathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E52EC1-AF61-99FC-E0EA-F4F6DB5D602E}|QLNhaHang.DAO\\QLNhaHang.DAO.csproj|d:\\programming\\do_an\\qlnhahang1\\qlnhahang.dao\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E52EC1-AF61-99FC-E0EA-F4F6DB5D602E}|QLNhaHang.DAO\\QLNhaHang.DAO.csproj|solutionrelative:qlnhahang.dao\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|D:\\programming\\Do_AN\\QLNhaHang1\\formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\programming\\do_an\\qlnhahang1\\formdangnhap\\frmquanlyban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\frmquanlyban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|d:\\programming\\do_an\\qlnhahang1\\formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\thongtinkh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|D:\\programming\\Do_AN\\QLNhaHang1\\formdangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6914445B-F50B-8A4C-FBB4-3C4238D78FCA}|FormDangNhap\\DOAN.csproj|solutionrelative:formdangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1AEA2D0-55FE-255F-4274-7B53C6FCAF18}|QLNhaHang.DTO\\QLNhaHang.DTO.csproj|d:\\doan\\doan_qlnhahang\\qlnhahang1\\qlnhahang.dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1AEA2D0-55FE-255F-4274-7B53C6FCAF18}|QLNhaHang.DTO\\QLNhaHang.DTO.csproj|d:\\programming\\do_an\\qlnhahang1\\qlnhahang.dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1AEA2D0-55FE-255F-4274-7B53C6FCAF18}|QLNhaHang.DTO\\QLNhaHang.DTO.csproj|solutionrelative:qlnhahang.dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97E52EC1-AF61-99FC-E0EA-F4F6DB5D602E}|QLNhaHang.DAO\\QLNhaHang.DAO.csproj|d:\\doan\\doan_qlnhahang\\qlnhahang1\\qlnhahang.dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97E52EC1-AF61-99FC-E0EA-F4F6DB5D602E}|QLNhaHang.DAO\\QLNhaHang.DAO.csproj|solutionrelative:qlnhahang.dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,28 +62,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DAO\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "QLNhaHang.DAO\\DatabaseHelper.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DAO\\DatabaseHelper.cs",
+              "RelativeToolTip": "QLNhaHang.DAO\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:25:18.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmQuanLyBan.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmQuanLyBan.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\frmQuanLyBan.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmQuanLyBan.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\frmQuanLyBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:30:42.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDatBan.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmDatBan.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\frmDatBan.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmDatBan.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\frmDatBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:30:36.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDatHang.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmDatHang.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\frmDatHang.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmDatHang.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\frmDatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:28:17.313Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmMain.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\frmMain.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmMain.cs",
+              "RelativeToolTip": "FormDangNhap\\frmMain.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAlwCYBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:27:20.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmMain.cs",
+              "RelativeDocumentMoniker": "FormDangNhap\\frmMain.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\frmMain.cs [Design]",
+              "RelativeToolTip": "FormDangNhap\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:27:17.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ThongTinKH.cs",
-              "DocumentMoniker": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs",
               "RelativeDocumentMoniker": "FormDangNhap\\ThongTinKH.cs",
-              "ToolTip": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs",
               "RelativeToolTip": "FormDangNhap\\ThongTinKH.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowCMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T13:58:07.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ThongTinKH.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs",
               "RelativeDocumentMoniker": "FormDangNhap\\ThongTinKH.cs",
-              "ToolTip": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs [Design]",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongTinKH.cs [Design]",
               "RelativeToolTip": "FormDangNhap\\ThongTinKH.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T13:16:22.41Z",
@@ -67,24 +169,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "FormDangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\FormDangNhap.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\FormDangNhap.cs",
               "RelativeDocumentMoniker": "FormDangNhap\\FormDangNhap.cs",
-              "ToolTip": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\FormDangNhap.cs [Design]",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\FormDangNhap.cs [Design]",
               "RelativeToolTip": "FormDangNhap\\FormDangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T13:08:07.785Z"
+              "WhenOpened": "2025-10-16T13:08:07.785Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ThongtinNhanVien.cs",
-              "DocumentMoniker": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs",
               "RelativeDocumentMoniker": "FormDangNhap\\ThongtinNhanVien.cs",
-              "ToolTip": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs",
               "RelativeToolTip": "FormDangNhap\\ThongtinNhanVien.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAcwGIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T12:07:27.982Z",
               "EditorCaption": ""
@@ -93,36 +196,39 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ThongtinNhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs",
               "RelativeDocumentMoniker": "FormDangNhap\\ThongtinNhanVien.cs",
-              "ToolTip": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs [Design]",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\ThongtinNhanVien.cs [Design]",
               "RelativeToolTip": "FormDangNhap\\ThongtinNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:03:39.746Z"
+              "WhenOpened": "2025-10-16T12:03:39.746Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "NhanVienDAO.cs",
-              "DocumentMoniker": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DAO\\NhanVienDAO.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DAO\\NhanVienDAO.cs",
               "RelativeDocumentMoniker": "QLNhaHang.DAO\\NhanVienDAO.cs",
-              "ToolTip": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DAO\\NhanVienDAO.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DAO\\NhanVienDAO.cs",
               "RelativeToolTip": "QLNhaHang.DAO\\NhanVienDAO.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAewDcAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwDgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:29:49.491Z"
+              "WhenOpened": "2025-10-16T12:29:49.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "NhanVienDTO.cs",
-              "DocumentMoniker": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DTO\\NhanVienDTO.cs",
+              "DocumentMoniker": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\NhanVienDTO.cs",
               "RelativeDocumentMoniker": "QLNhaHang.DTO\\NhanVienDTO.cs",
-              "ToolTip": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DTO\\NhanVienDTO.cs",
+              "ToolTip": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\NhanVienDTO.cs",
               "RelativeToolTip": "QLNhaHang.DTO\\NhanVienDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T12:02:15.055Z"
+              "WhenOpened": "2025-10-16T12:02:15.055Z",
+              "EditorCaption": ""
             }
           ]
         }

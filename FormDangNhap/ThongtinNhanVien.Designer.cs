@@ -231,6 +231,7 @@
             // dateTimePicker_NS
             // 
             dateTimePicker_NS.Font = new Font("Times New Roman", 10.8F);
+            dateTimePicker_NS.Format = DateTimePickerFormat.Short;
             dateTimePicker_NS.Location = new Point(200, 136);
             dateTimePicker_NS.Name = "dateTimePicker_NS";
             dateTimePicker_NS.Size = new Size(272, 28);
@@ -287,9 +288,11 @@
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(44, 473);
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(847, 188);
             dataGridView1.TabIndex = 24;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // label2
             // 
@@ -343,6 +346,7 @@
             Controls.Add(lbt_HoTen);
             Controls.Add(lbt_MaNV);
             Controls.Add(txt_MaNV);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "ThongtinNhanVien";
             Text = "ThongtinNhanVien";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

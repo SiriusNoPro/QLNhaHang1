@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj": {}
+    "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj": {}
   },
   "projects": {
-    "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj": {
+    "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj",
+        "projectUniqueName": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj",
         "projectName": "QLNhaHang.DTO",
-        "projectPath": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj",
-        "packagesPath": "C:\\Users\\Sơn\\.nuget\\packages\\",
-        "outputPath": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\QLNhaHang.DTO\\obj\\",
+        "projectPath": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sơn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

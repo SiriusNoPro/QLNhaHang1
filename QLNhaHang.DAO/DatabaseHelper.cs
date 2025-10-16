@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
+using System.Data;
 namespace QLNhaHang.DAO
 {
     public class DatabaseHelper
     {
-		private static readonly string connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=QuanLyNhaHang;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
+		private static readonly string connectionString = "Data Source=. ;Initial Catalog=QuanLyNhaHang;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
         public static SqlConnection GetConnection()
         {
            
