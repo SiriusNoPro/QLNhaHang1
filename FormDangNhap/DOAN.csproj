@@ -9,6 +9,37 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Picture\3209334_circle_filter_form_menu_text_icon.png" />
+    <None Remove="Picture\3gach.png" />
+    <None Remove="Picture\9055226_bxs_dashboard_icon.png" />
+    <None Remove="Picture\9075873_list_checklist_menu_note_document_icon.png" />
+    <None Remove="Picture\BanhLava.jpg" />
+    <None Remove="Picture\BeefsteaksotTieuDen.jpg" />
+    <None Remove="Picture\CoCa.jpg" />
+    <None Remove="Picture\dashboard.png" />
+    <None Remove="Picture\icons8-bar-chart-32.png" />
+    <None Remove="Picture\icons8-dashboard-24.png" />
+    <None Remove="Picture\icons8-home-24.png" />
+    <None Remove="Picture\icons8-home-32.png" />
+    <None Remove="Picture\icons8-information-32.png" />
+    <None Remove="Picture\icons8-logout-16.png" />
+    <None Remove="Picture\icons8-logout-32.png" />
+    <None Remove="Picture\icons8-setting-32.png" />
+    <None Remove="Picture\Image1.jpg" />
+    <None Remove="Picture\Image2.jpg" />
+    <None Remove="Picture\Image3.jpg" />
+    <None Remove="Picture\Image4.jpg" />
+    <None Remove="Picture\Menu.png" />
+    <None Remove="Picture\MiY.jpg" />
+    <None Remove="Picture\nuocCam.jpg" />
+    <None Remove="Picture\RuouVang.jpg" />
+    <None Remove="Picture\SaladScaesar.jpg" />
+    <None Remove="Picture\SotVang.jpg" />
+    <None Remove="Picture\SupBiDo.jpg" />
+    <None Remove="Picture\ThitCuuVangDo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="DevExpress.Win.WinterJoySkin" Version="1.0.3" />
     <PackageReference Include="FontAwesome.Sharp" Version="6.6.0" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.2" />
@@ -46,6 +77,93 @@
       <Isolated>false</Isolated>
       <EmbedInteropTypes>true</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Picture\3209334_circle_filter_form_menu_text_icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\3gach.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\9055226_bxs_dashboard_icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\9075873_list_checklist_menu_note_document_icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\BanhLava.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\BeefsteaksotTieuDen.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\CoCa.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\dashboard.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-bar-chart-32.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-dashboard-24.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-home-24.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-home-32.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-information-32.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-logout-16.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-logout-32.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\icons8-setting-32.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\Image1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\Image2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\Image3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\Image4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\Menu.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\MiY.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\nuocCam.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\RuouVang.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\SaladScaesar.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\SotVang.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\SupBiDo.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Picture\ThitCuuVangDo.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

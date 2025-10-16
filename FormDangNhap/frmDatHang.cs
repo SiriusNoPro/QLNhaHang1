@@ -4,9 +4,10 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
+using Microsoft.Data.SqlClient;
 using QLNhaHang.BUS;
+using QLNhaHang.DAO;
 using QLNhaHang.DTO;
-
 namespace DOAN
 {
     public partial class frmDatHang : Form
@@ -39,7 +40,7 @@ namespace DOAN
         private void LoadSources()
         {
             var dsLoai = loaiMatHangBUS.LayTatCa();
-            var dsMon = matHangBUS.LayTatCa();
+            var dsMon = matHangBUS.LayTatCa().OrderBy(m=>m.MaMH).ToList();
             var dsDat = datBanBUS.LayTatCa();
 
             bsLoai.DataSource = dsLoai;
@@ -99,7 +100,30 @@ namespace DOAN
             }
             flowMenu.ResumeLayout();
         }
+        public void LoadMonAnImage(string maMon, PictureBox pictureBox)
+        {
 
+            string query = "SELECT HinhAnh FROM MatHang WHERE MaMH = @MaMH";
+            var parameters = new Dictionary<string, object>()
+            {
+                    {"@MaMH", maMon } 
+            };
+
+            object result = DatabaseHelper.ExecuteScalar(query, parameters);
+            string tenAnh = result != null && result != DBNull.Value ? result.ToString() : null;
+
+            if (!string.IsNullOrEmpty(tenAnh))
+            { 
+                string imagePath = Path.Combine("Picture", tenAnh);
+
+                pictureBox.Image = File.Exists(imagePath) ? Image.FromFile(imagePath) : null;
+            }
+            else
+            {
+                pictureBox.Image = null;
+            }
+
+        }
 
         private Control BuildMenuCard(MatHangDTO mon)
         {
@@ -121,12 +145,13 @@ namespace DOAN
             };
             try
             {
-                if (!string.IsNullOrEmpty(mon.HinhAnh) && System.IO.File.Exists(mon.HinhAnh))
-                {
-                    pic.Image = Image.FromFile(mon.HinhAnh);
-                }
+                LoadMonAnImage(mon.MaMH, pic);
+                
             }
-            catch { }
+            catch {
+                pic.Image = null;
+            }
+          
 
             var lblTen = new Label
             {

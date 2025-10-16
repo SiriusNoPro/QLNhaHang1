@@ -36,3 +36,16 @@ D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DTO\obj\Debug\net8
 D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DTO\obj\Debug\net8.0\refint\QLNhaHang.DTO.dll
 D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.pdb
 D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang.DTO\obj\Debug\net8.0\ref\QLNhaHang.DTO.dll
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\bin\Debug\net8.0\QLNhaHang.DTO.deps.json
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\bin\Debug\net8.0\QLNhaHang.DTO.dll
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\bin\Debug\net8.0\QLNhaHang.DTO.pdb
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.csproj.AssemblyReference.cache
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.AssemblyInfoInputs.cache
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.AssemblyInfo.cs
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.csproj.CoreCompileInputs.cache
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.sourcelink.json
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.dll
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\refint\QLNhaHang.DTO.dll
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.pdb
+D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\ref\QLNhaHang.DTO.dll

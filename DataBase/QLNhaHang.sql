@@ -275,16 +275,16 @@ INSERT INTO LoaiMatHang (MaLoaiMH, TenLoaiMH) VALUES
 
 
 INSERT INTO MatHang (MaMH, TenMH, MaLoaiMH, Gia, TrangThai, MoTa, ThoiGianCheBien, HinhAnh) VALUES
-('MH001', N'Salad Caesar', 'LMH08', 75000, N'Có sẵn', N'Salad tươi trộn sốt Caesar, phô mai Parmesan và bánh mì nướng', 8, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH002', N'Súp bí đỏ kem tươi', 'LMH09', 65000, N'Có sẵn', N'Súp bí đỏ nấu cùng kem tươi và bơ, vị béo nhẹ', 10, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH003', N'Beefsteak sốt tiêu đen', 'LMH02', 220000, N'Có sẵn', N'Thịt bò nhập khẩu áp chảo vừa chín tới, dùng kèm sốt tiêu đen đậm đà', 20, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH004', N'Beefsteak sốt vang đỏ', 'LMH02', 250000, N'Có sẵn', N'Thịt bò Úc nấu cùng sốt vang đỏ, dùng kèm khoai tây nghiền và rau củ hấp', 25, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH005', N'Sườn cừu nướng rosemary', 'LMH02', 280000, N'Có sẵn', N'Sườn cừu ướp thảo mộc rosemary, nướng lửa than vừa tới', 30, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH006', N'Mì Ý sốt bò bằm', 'LMH03', 150000, N'Có sẵn', N'Spaghetti với sốt cà chua bò bằm đậm đà kiểu Ý', 15, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH007', N'Bánh chocolate lava', 'LMH04', 95000, N'Có sẵn', N'Bánh chocolate mềm, nhân tan chảy bên trong, ăn kèm kem vani', 12, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH008', N'Nước ép cam tươi', 'LMH07', 55000, N'Có sẵn', N'Nước ép cam tươi nguyên chất, không đường', 3, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH009', N'Rượu vang đỏ Chile', 'LMH06', 320000, N'Có sẵn', N'Rượu vang đỏ nhập khẩu Chile, phù hợp dùng cùng beefsteak', 0, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg'),
-('MH010', N'Coca Cola', 'LMH05', 30000, N'Có sẵn', N'Nước giải khát có gas, dùng lạnh', 0, N'D:\Coder\C#\QLNhaHang\QLNhaHang\QLNhaHang\QLNhaHang\Picture\Image1.jpg');
+('MH001', N'Salad Caesar', 'LMH08', 75000, N'Có sẵn', N'Salad tươi trộn sốt Caesar, phô mai Parmesan và bánh mì nướng', 8, N'SaladScaesar.jpg'),
+('MH002', N'Súp bí đỏ kem tươi', 'LMH09', 65000, N'Có sẵn', N'Súp bí đỏ nấu cùng kem tươi và bơ, vị béo nhẹ', 10, N'SupBiDo.jpg'),
+('MH003', N'Beefsteak sốt tiêu đen', 'LMH02', 220000, N'Có sẵn', N'Thịt bò nhập khẩu áp chảo vừa chín tới, dùng kèm sốt tiêu đen đậm đà', 20, N'BeefsteaksotTieuDen.jpg'),
+('MH004', N'Beefsteak sốt vang đỏ', 'LMH02', 250000, N'Có sẵn', N'Thịt bò Úc nấu cùng sốt vang đỏ, dùng kèm khoai tây nghiền và rau củ hấp', 25, N'SotVang.jpg'),
+('MH005', N'Sườn cừu nướng rosemary', 'LMH02', 280000, N'Có sẵn', N'Sườn cừu ướp thảo mộc rosemary, nướng lửa than vừa tới', 30, N'ThitCuuVangDo.jpg'),
+('MH006', N'Mì Ý sốt bò bằm', 'LMH03', 150000, N'Có sẵn', N'Spaghetti với sốt cà chua bò bằm đậm đà kiểu Ý', 15, N'MiY.jpg'),
+('MH007', N'Bánh chocolate lava', 'LMH04', 95000, N'Có sẵn', N'Bánh chocolate mềm, nhân tan chảy bên trong, ăn kèm kem vani', 12, N'BanhLava.jpg'),
+('MH008', N'Nước ép cam tươi', 'LMH07', 55000, N'Có sẵn', N'Nước ép cam tươi nguyên chất, không đường', 3, N'nuocCam.jpg'),
+('MH009', N'Rượu vang đỏ Chile', 'LMH06', 320000, N'Có sẵn', N'Rượu vang đỏ nhập khẩu Chile, phù hợp dùng cùng beefsteak', 0, N'RuouVang.jpg'),
+('MH010', N'Coca Cola', 'LMH05', 30000, N'Có sẵn', N'Nước giải khát có gas, dùng lạnh', 0, N'CoCa.jpg');
 
 INSERT INTO DatBan (MaDatBan, MaBan, MaKH, ThoiGianDat, SoLuongKhach, YeuCau, TrangThai) VALUES
 ('DB001', 'B001', 'KH001', '2025-09-10 18:30:00', 2, N'Không hút thuốc', N'Đang sử dụng'),

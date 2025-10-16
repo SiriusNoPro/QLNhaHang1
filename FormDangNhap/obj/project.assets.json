@@ -1918,23 +1918,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coder\\C#\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang\\FormDangNhap\\DOAN.csproj",
+      "projectUniqueName": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\DOAN.csproj",
       "projectName": "DOAN",
-      "projectPath": "D:\\Coder\\C#\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang\\FormDangNhap\\DOAN.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Coder\\C#\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang\\FormDangNhap\\obj\\",
+      "projectPath": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\DOAN.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\programming\\Do_AN\\QLNhaHang1\\FormDangNhap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1949,11 +1949,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Coder\\C#\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang.BUS\\QLNhaHang.BUS.csproj": {
-              "projectPath": "D:\\Coder\\C#\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang.BUS\\QLNhaHang.BUS.csproj"
+            "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.BUS\\QLNhaHang.BUS.csproj": {
+              "projectPath": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.BUS\\QLNhaHang.BUS.csproj"
             },
-            "D:\\Coder\\C#\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj": {
-              "projectPath": "D:\\Coder\\C#\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj"
+            "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj": {
+              "projectPath": "D:\\programming\\Do_AN\\QLNhaHang1\\QLNhaHang.DTO\\QLNhaHang.DTO.csproj"
             }
           }
         }
@@ -2010,7 +2010,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
