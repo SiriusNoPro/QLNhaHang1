@@ -54,6 +54,7 @@ CREATE TABLE DatBan (
 CREATE TABLE NhanVien (
     MaNV VARCHAR(10) PRIMARY KEY,
     HoTen NVARCHAR(100) NOT NULL,
+    NgaySinh DATE,
     GioiTinh NVARCHAR(10),
     ChucVu NVARCHAR(50),
     SoDienThoai VARCHAR(15),
@@ -248,17 +249,20 @@ INSERT INTO KhachHang (MaKH, TenKH, GioiTinh, Email, SDT, DiaChi) VALUES
 ('KH009', N'Võ Thị Mai', N'Nữ', 'maivt@example.com', '0909999999', N'Quận 9, TP.HCM'),
 ('KH010', N'Phan Thành Long', N'Nam', 'longpt@example.com', '0910000000', N'Thủ Đức, TP.HCM');
 
-INSERT INTO NhanVien (MaNV, HoTen, GioiTinh, ChucVu, SoDienThoai, Email, DiaChi, HinhAnh, TaiKhoan, MatKhau) VALUES
-('NV001', N'Trần Quốc Khánh', N'Nam', N'Quản lý', '0901234567', 'a@example.com', N'Quận 1', NULL, 'nguyenvana', '123456'),
-('NV002', N'Nguyễn Thị Thanh Phương', N'Nữ', N'Lễ tân', '0902234567', 'b@example.com', N'Quận 2', NULL, 'tranthib', '123456'),
-('NV003', N'Đặng Hoàng Hải', N'Nam', N'Bồi bàn', '0903234567', 'c@example.com', N'Quận 3', NULL, 'levanc', '123456'),
-('NV004', N'Lưu Thanh Trúc', N'Nữ', N'Kế toán', '0904234567', 'd@example.com', N'Quận 4', NULL, 'phamthid', '123456'),
-('NV005', N'Trần Minh Hòa', N'Nam', N'Bồi bàn', '0905234567', 'e@example.com', N'Quận 5', NULL, 'hoangvane', '123456'),
-('NV006', N'Đỗ Thị Hồng Nga', N'Nữ', N'Lễ tân', '0906234567', 'f@example.com', N'Quận 6', NULL, 'dothif', '123456'),
-('NV007', N'Hồ Hoàng Liên Sơn', N'Nam', N'Nhân viên', '0907234567', 'g@example.com', N'Quận 7', NULL, 'ngovang', '123456'),
-('NV008', N'Bồ Xuân Đức', N'Nam', N'Bồi bàn', '0908234567', 'h@example.com', N'Quận 8', NULL, 'buithih', '123456'),
-('NV009', N'Nguyễn Minh Trí', N'Nam', N'Nhân viên', '0909234567', 'i@example.com', N'Quận 9', NULL, 'vovani', '123456'),
-('NV010', N'Lê Phúc Anh Huy', N'Nam', N'Kế toán', '0910234567', 'j@example.com', N'Thủ Đức', NULL, 'phanthij', '123456');
+INSERT INTO NhanVien 
+(MaNV, HoTen, NgaySinh, GioiTinh, ChucVu, SoDienThoai, Email, DiaChi, HinhAnh, TaiKhoan, MatKhau) 
+VALUES
+('NV001', N'Trần Quốc Khánh', '1985-03-15', N'Nam', N'Quản lý', '0901234567', 'a@example.com', N'Quận 1', NULL, 'nguyenvana', '123456'),
+('NV002', N'Nguyễn Thị Thanh Phương', '1990-07-22', N'Nữ', N'Lễ tân', '0902234567', 'b@example.com', N'Quận 2', NULL, 'tranthib', '123456'),
+('NV003', N'Đặng Hoàng Hải', '1998-01-30', N'Nam', N'Bồi bàn', '0903234567', 'c@example.com', N'Quận 3', NULL, 'levanc', '123456'),
+('NV004', N'Lưu Thanh Trúc', '1995-10-12', N'Nữ', N'Kế toán', '0904234567', 'd@example.com', N'Quận 4', NULL, 'phamthid', '123456'),
+('NV005', N'Trần Minh Hòa', '1999-06-05', N'Nam', N'Bồi bàn', '0905234567', 'e@example.com', N'Quận 5', NULL, 'hoangvane', '123456'),
+('NV006', N'Đỗ Thị Hồng Nga', '1993-11-18', N'Nữ', N'Lễ tân', '0906234567', 'f@example.com', N'Quận 6', NULL, 'dothif', '123456'),
+('NV007', N'Hồ Hoàng Liên Sơn', '2002-04-01', N'Nam', N'Nhân viên', '0907234567', 'g@example.com', N'Quận 7', NULL, 'ngovang', '123456'),
+('NV008', N'Bồ Xuân Đức', '1997-09-25', N'Nam', N'Bồi bàn', '0908234567', 'h@example.com', N'Quận 8', NULL, 'buithih', '123456'),
+('NV009', N'Nguyễn Minh Trí', '2000-12-09', N'Nam', N'Nhân viên', '0909234567', 'i@example.com', N'Quận 9', NULL, 'vovani', '123456'),
+('NV010', N'Lê Phúc Anh Huy', '1994-02-28', N'Nam', N'Kế toán', '0910234567', 'j@example.com', N'Thủ Đức', NULL, 'phanthij', '123456');
+
 
 
 INSERT INTO LoaiMatHang (MaLoaiMH, TenLoaiMH) VALUES

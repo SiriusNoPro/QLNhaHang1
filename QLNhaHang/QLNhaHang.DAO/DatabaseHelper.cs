@@ -10,7 +10,7 @@ namespace QLNhaHang.DAO
     {
         public static SqlConnection GetConnection()
         {
-            string connectionString = "Data Source=;Initial Catalog=QuanLyNhaHang;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
+			string connectionString = "Data Source=localhost\\SQLEXPRESS;Initial Catalog=QuanLyNhaHang;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
             return new SqlConnection(connectionString);
         }
     }

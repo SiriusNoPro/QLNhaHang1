@@ -10,6 +10,7 @@ namespace QLNhaHang.DTO
     {
         public string MaNV { get; set; }
         public string HoTen { get; set; }
+        public DateTime? NgaySinh { get; set; }
         public string GioiTinh { get; set; }
         public string ChucVu { get; set; }
         public string SoDienThoai { get; set; }

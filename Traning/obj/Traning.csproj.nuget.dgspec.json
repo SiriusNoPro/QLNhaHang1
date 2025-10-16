@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programming\\Do_AN\\QLNhaHang1\\Traning\\Traning.csproj": {}
+    "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\Traning\\Traning.csproj": {}
   },
   "projects": {
-    "D:\\programming\\Do_AN\\QLNhaHang1\\Traning\\Traning.csproj": {
+    "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\Traning\\Traning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programming\\Do_AN\\QLNhaHang1\\Traning\\Traning.csproj",
+        "projectUniqueName": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\Traning\\Traning.csproj",
         "projectName": "Traning",
-        "projectPath": "D:\\programming\\Do_AN\\QLNhaHang1\\Traning\\Traning.csproj",
-        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\programming\\Do_AN\\QLNhaHang1\\Traning\\obj\\",
+        "projectPath": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\Traning\\Traning.csproj",
+        "packagesPath": "C:\\Users\\Sơn\\.nuget\\packages\\",
+        "outputPath": "D:\\DoAn\\DoAn_QLNhaHang\\QLNhaHang1\\Traning\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sơn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -86,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

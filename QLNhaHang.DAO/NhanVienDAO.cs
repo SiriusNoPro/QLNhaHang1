@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
 using QLNhaHang.DTO;
+
 namespace QLNhaHang.DAO
 {
     public class NhanVienDAO
@@ -26,6 +27,7 @@ namespace QLNhaHang.DAO
                         {
                             MaNV = r["MaNV"].ToString(),
                             HoTen = r["HoTen"].ToString(),
+                            NgaySinh = r["NgaySinh"] == DBNull.Value ? (DateTime?)null : Convert.ToDateTime(r["NgaySinh"]),
                             GioiTinh = r["GioiTinh"] == DBNull.Value ? null : r["GioiTinh"].ToString(),
                             ChucVu = r["ChucVu"] == DBNull.Value ? null : r["ChucVu"].ToString(),
                             SoDienThoai = r["SoDienThoai"] == DBNull.Value ? null : r["SoDienThoai"].ToString(),
@@ -43,13 +45,15 @@ namespace QLNhaHang.DAO
 
         public bool Them(NhanVienDTO obj)
         {
-            string query = "INSERT INTO NhanVien(MaNV, HoTen, GioiTinh, ChucVu, SoDienThoai, Email, DiaChi, HinhAnh, TaiKhoan, MatKhau) " +
-                           "VALUES(@a,@b,@c,@d,@e,@f,@g,@h,@i,@j)";
+            string query = @"INSERT INTO NhanVien
+                            (MaNV, HoTen, NgaySinh, GioiTinh, ChucVu, SoDienThoai, Email, DiaChi, HinhAnh, TaiKhoan, MatKhau)
+                            VALUES(@a,@b,@ns,@c,@d,@e,@f,@g,@h,@i,@j)";
             using (var conn = DatabaseHelper.GetConnection())
             using (var cmd = new SqlCommand(query, conn))
             {
                 cmd.Parameters.AddWithValue("@a", obj.MaNV);
                 cmd.Parameters.AddWithValue("@b", obj.HoTen);
+                cmd.Parameters.AddWithValue("@ns", (object)obj.NgaySinh ?? DBNull.Value);
                 cmd.Parameters.AddWithValue("@c", (object)obj.GioiTinh ?? DBNull.Value);
                 cmd.Parameters.AddWithValue("@d", (object)obj.ChucVu ?? DBNull.Value);
                 cmd.Parameters.AddWithValue("@e", (object)obj.SoDienThoai ?? DBNull.Value);
@@ -65,12 +69,17 @@ namespace QLNhaHang.DAO
 
         public bool CapNhat(NhanVienDTO obj)
         {
-            string query = "UPDATE NhanVien SET HoTen=@b, GioiTinh=@c, ChucVu=@d, SoDienThoai=@e, Email=@f, DiaChi=@g, HinhAnh=@h, TaiKhoan=@i, MatKhau=@j WHERE MaNV=@a";
+            string query = @"UPDATE NhanVien 
+                             SET HoTen=@b, NgaySinh=@ns, GioiTinh=@c, ChucVu=@d, 
+                                 SoDienThoai=@e, Email=@f, DiaChi=@g, HinhAnh=@h, 
+                                 TaiKhoan=@i, MatKhau=@j 
+                             WHERE MaNV=@a";
             using (var conn = DatabaseHelper.GetConnection())
             using (var cmd = new SqlCommand(query, conn))
             {
                 cmd.Parameters.AddWithValue("@a", obj.MaNV);
                 cmd.Parameters.AddWithValue("@b", obj.HoTen);
+                cmd.Parameters.AddWithValue("@ns", (object)obj.NgaySinh ?? DBNull.Value);
                 cmd.Parameters.AddWithValue("@c", (object)obj.GioiTinh ?? DBNull.Value);
                 cmd.Parameters.AddWithValue("@d", (object)obj.ChucVu ?? DBNull.Value);
                 cmd.Parameters.AddWithValue("@e", (object)obj.SoDienThoai ?? DBNull.Value);
@@ -113,6 +122,7 @@ namespace QLNhaHang.DAO
                         {
                             MaNV = r["MaNV"].ToString(),
                             HoTen = r["HoTen"].ToString(),
+                            NgaySinh = r["NgaySinh"] == DBNull.Value ? (DateTime?)null : Convert.ToDateTime(r["NgaySinh"]),
                             ChucVu = r["ChucVu"] == DBNull.Value ? null : r["ChucVu"].ToString(),
                             TaiKhoan = r["TaiKhoan"].ToString(),
                             MatKhau = r["MatKhau"].ToString()

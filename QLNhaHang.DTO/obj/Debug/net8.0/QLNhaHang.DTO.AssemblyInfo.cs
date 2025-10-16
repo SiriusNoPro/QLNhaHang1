@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QLNhaHang.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59e29c710d9483c82524f21055a612abb3e43187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bf08cfd94268356d53d6e9d73578571d874c369")]
 [assembly: System.Reflection.AssemblyProductAttribute("QLNhaHang.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QLNhaHang.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

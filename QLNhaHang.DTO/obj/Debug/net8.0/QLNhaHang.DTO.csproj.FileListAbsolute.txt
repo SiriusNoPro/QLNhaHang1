@@ -49,3 +49,16 @@ D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.dll
 D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\refint\QLNhaHang.DTO.dll
 D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.pdb
 D:\programming\Do_AN\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\ref\QLNhaHang.DTO.dll
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\bin\Debug\net8.0\QLNhaHang.DTO.deps.json
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\bin\Debug\net8.0\QLNhaHang.DTO.dll
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\bin\Debug\net8.0\QLNhaHang.DTO.pdb
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.csproj.AssemblyReference.cache
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.AssemblyInfoInputs.cache
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.AssemblyInfo.cs
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.sourcelink.json
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.dll
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\refint\QLNhaHang.DTO.dll
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\QLNhaHang.DTO.pdb
+D:\DoAn\DoAn_QLNhaHang\QLNhaHang1\QLNhaHang.DTO\obj\Debug\net8.0\ref\QLNhaHang.DTO.dll
